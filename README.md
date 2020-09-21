@@ -3,11 +3,6 @@
 
 도전적이고 재미있는 UI를 개발 하는것을 좋아합니다.
 
-### Profile
-
-- [blog](https://devyhan93.github.io)
-- [youtube](https://www.youtube.com/channel/UCHDe6Lsal0c5PhAwtH1j3Cg?view_as=subscriber)
-
 ### Portfolio
 
 <p align="center">
@@ -19,3 +14,6 @@
         <img width="100" src="./images/SoFastCar.png">
     </a>
 <p>
+
+#### Tags
+[`blog`](https://devyhan93.github.io), [`youtube`](https://www.youtube.com/channel/UCHDe6Lsal0c5PhAwtH1j3Cg?view_as=subscriber)
