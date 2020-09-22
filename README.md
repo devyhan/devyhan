@@ -1,8 +1,6 @@
 ## 조요한, YoHan Cho
 #### "새로운 것에 도전하기를 좋아하는 iOS개발자 입니다."
 
----
-
 ### Portfolio
 
 <p align="center">
