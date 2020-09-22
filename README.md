@@ -19,8 +19,6 @@
 [`# blog`](https://devyhan93.github.io), [`# youtube`](https://www.youtube.com/channel/UCHDe6Lsal0c5PhAwtH1j3Cg?view_as=subscriber)
 
 <p align="right">
-    <img src="https://komarev.com/ghpvc/?username=devyhan93" alt="singh08prashant" />
-    <br/>
     <span>
         ✉️ devyhan93@gmail.com
     </span>
