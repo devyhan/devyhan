@@ -20,7 +20,7 @@
 
 <p align="right">
     <span>
-        ✉️ devyhan93@gmail.com
+        ✉️ devyhan@gmail.com
     </span>
 </p>
 
