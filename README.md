@@ -24,5 +24,5 @@ If you are interested, please contact 📮*devyhan93@gmail.com*.
 
 - [Fix for resource synthesizers not added to the `tuist edit` project](https://github.com/tuist/tuist/pull/4822)
 - [Fix loading of stencils using `{% extends %}`](https://github.com/tuist/tuist/pull/4844)
-- [Fix for stencils directory not added to the tuist edit project](https://github.com/tuist/tuist/pull/4850)
+- [Fix for stencils directory not added to the `tuist edit` project](https://github.com/tuist/tuist/pull/4850)
 
