@@ -1,14 +1,22 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdevyhan&count_bg=%23743DC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Today&edge_flat=false)](https://hits.seeyoufarm.com)
 
-## 조요한, YoHan Cho
-#### "새로운 것에 도전하기를 좋아하는 iOS개발자 입니다."
+<h3 align="left">
+📘 Contribution Log
+</h3>
 
-[`# blog`](https://devyhan.github.io), [`# youtube`](https://www.youtube.com/channel/UCHDe6Lsal0c5PhAwtH1j3Cg?view_as=subscriber)
+<h4 align="left">
+Tuist
+</h4>
 
-<p align="right">
-    <span>
-        ✉️ devyhan93@gmail.com
-    </span>
+<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+<!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+<p align="left">
+  <a href="https://github.com/tuist/tuist">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tuist&repo=tuist&theme=react&bg_color=2d333b&title_color=6236ff&hide_border=true&icon_color=F8D866&show_icons=false" alt="Cybersecurity-Roadmap">
+  </a>
 </p>
 
+- [Fix for resource synthesizers not added to the `tuist edit` project](https://github.com/tuist/tuist/pull/4822)
+- [Fix loading of stencils using `{% extends %}`](https://github.com/tuist/tuist/pull/4844)
+- [Fix for stencils directory not added to the tuist edit project](https://github.com/tuist/tuist/pull/4850)
 
