@@ -8,9 +8,10 @@ If you are interested, please contact 📮*devyhan93@gmail.com*.
 <h3 align="left">
 📘 Contribution Log
 </h3>
-
 <h4 align="left">
-Tuist
+    <a href="https://github.com/devyhan?tab=overview&org=tuist">
+    Tuist
+    </a>
 </h4>
 
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
