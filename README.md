@@ -15,7 +15,7 @@ DM
 
 <p align="left">
   <a href="https://github.com/devyhan/URLRouter">
-  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=devyhan&repo=URLRouter&theme=react&bg_color=2d333b&title_color=e3782f&hide_border=true&icon_color=F8D866&show_icons=false" alt="Cybersecurity-Roadmap">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=devyhan&repo=URLRouter&theme=react&bg_color=2d333b&title_color=e97537&hide_border=true&icon_color=F8D866&show_icons=false" alt="Cybersecurity-Roadmap">
   </a>
 </p>
 
@@ -25,7 +25,7 @@ DM
 
 <p align="left">
   <a href="https://github.com/tuist/tuist">
-  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tuist&repo=tuist&theme=react&bg_color=2d333b&title_color=6236ff&hide_border=true&icon_color=F8D866&show_icons=false" alt="Cybersecurity-Roadmap">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tuist&repo=Tuist&theme=react&bg_color=2d333b&title_color=6b3ab6&hide_border=true&icon_color=F8D866&show_icons=false" alt="Cybersecurity-Roadmap">
   </a>
 </p>
 
