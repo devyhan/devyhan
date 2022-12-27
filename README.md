@@ -22,7 +22,7 @@ DM
 </p>
 
 <h3 align="left">
-📝 Contribution Of
+📝 Contributer Of
 </h3>
 
 <p align="left">
