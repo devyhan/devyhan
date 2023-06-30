@@ -4,10 +4,10 @@
 Whoim 🤔
 
 I have passion for open-source contribution, build stuff and always think to sustainable project management.  
-If you are interested, please contact 📮*devyhan93@gmail.com* or 
-<a href="https://twitter.com/messages/compose?recipient_id=devyhan93">
-DM
-</a>
+If you are interested, please contact
+
+<a rel="tw" href="https://twitter.com/devyhan93">Twitter</a>
+<a rel="me" href="https://mastodon.social/@devyhan">Mastodon</a>
 
 ## 📚 OpenSource
 
