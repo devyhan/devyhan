@@ -8,8 +8,6 @@ If you are interested.
 
 <a rel="tw" href="https://twitter.com/devyhan93">𝕏</a>
 
-23.09.24 ~ 09.27 Japan 🇯🇵
-
 ## 📚 OpenSource
 
 <h3 align="left">
