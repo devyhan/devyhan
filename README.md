@@ -4,7 +4,7 @@
 Whoim 🤔
 
 I have passion for open-source contribution, build stuff and always think to sustainable project management.  
-If you are interested send to DM <a rel="tw" href="https://twitter.com/devyhan93">𝕏</a>
+If you are interested send to DM in <a rel="tw" href="https://twitter.com/devyhan93">𝕏</a>
 
 ## 📚 OpenSource
 
